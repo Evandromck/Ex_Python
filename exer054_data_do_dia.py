@@ -7,7 +7,7 @@ for pess in range(1, 8):
     idade = atual - nasc
     if idade >= 18:
         totmaior += 1
-    else 
+    else: 
         totmenor += 1
 
 print('Ao tod ')
